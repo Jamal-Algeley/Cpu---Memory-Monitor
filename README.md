@@ -1,3 +1,1 @@
-# Cpu-and-Memory-Monitor
-Cpu andMemory monitor
-![screenshot](https://user-images.githubusercontent.com/29940168/54866361-c6482600-4d6a-11e9-8323-651a122c8ab9.png)
+![1024 w x 500 h copy](https://user-images.githubusercontent.com/29940168/54866386-10310c00-4d6b-11e9-8cd0-58a96623ce40.jpg)
